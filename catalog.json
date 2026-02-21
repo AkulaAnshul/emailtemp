@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "email": "24f2004163@ds.study.iitm.ac.in",
+    "version": "f0bbfd13",
+    "generatedAt": "2026-02-22"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "category": "electronics",
+      "price": 499.99,
+      "stock": 25,
+      "rating": 4.5
+    }
+  ],
+  "aggregations": {
+    "sports": {
+      "count": 2,
+      "inventoryValue": 22526.90
+    }
+  }
+}
