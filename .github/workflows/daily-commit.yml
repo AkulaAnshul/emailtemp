@@ -1,8 +1,8 @@
-name: Daily Auto Commit
+name: Daily Auto Commit - 24f2004163@ds.study.iitm.ac.in
 
 on:
   schedule:
-    - cron: '13 4 * * *'   # Runs daily at 04:13 UTC (specific time)
+    - cron: '13 4 * * *'
   workflow_dispatch:
 
 jobs:
